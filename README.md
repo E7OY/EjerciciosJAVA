@@ -3,6 +3,7 @@ Repositorio para los ejercicios construidos con JAVA
 
 * [Calculadora](https://github.com/E7OY/EjerciciosJAVA/tree/main/Calculadora)
 * [Conversor de Euros a $, £ o ¥](https://github.com/E7OY/EjerciciosJAVA/tree/main/ConversorMonedasEGM)
+* [Conversor de monedas herencia de Euros a $, £ o ¥](https://github.com/E7OY/EjerciciosJAVA/tree/main/conversorMonedasHerencia)
 * [Calculadora de areas y perimetros](https://github.com/E7OY/EjerciciosJAVA/tree/main/FigurasGeometricaEGM)
 * [Calculadora de raices cuadradas y potencias](https://github.com/E7OY/EjerciciosJAVA/tree/main/OperacionesMatematicasEGM)
 * [Calculadora interfaz](https://github.com/E7OY/EjerciciosJAVA/tree/main/calculadoraInterfaz)
