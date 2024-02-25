@@ -2,14 +2,14 @@ package src.liceolapaz.des.egm;
 
 public class Libra extends Moneda {
     private final static double CONVERSION_A_LIBRA= 1.1029861;
+
+    // Generamos el constructor
     public Libra(double cantidad) {
         super(cantidad);
     }
-    // 1 British pound = 1.1029861 Euros
-    // Generamos el constructor
 
 
-    //
+    //sobreescribimos el metodo
     @Override
     protected double cantidadEnEuros() {
         double resultado = cantidad * CONVERSION_A_LIBRA;
