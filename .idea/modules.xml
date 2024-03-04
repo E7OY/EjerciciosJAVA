@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConversorMonedasEGM/ConversorMonedasEGM.iml" filepath="$PROJECT_DIR$/ConversorMonedasEGM/ConversorMonedasEGM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaBancariaEGM/CuentaBancariaEGM.iml" filepath="$PROJECT_DIR$/CuentaBancariaEGM/CuentaBancariaEGM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CuentaBancariaHerenciaEGM/CuentaBancariaHerenciaEGM.iml" filepath="$PROJECT_DIR$/CuentaBancariaHerenciaEGM/CuentaBancariaHerenciaEGM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EjerciciosJAVA.iml" filepath="$PROJECT_DIR$/.idea/EjerciciosJAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Examen1EGM/Examen1EGM.iml" filepath="$PROJECT_DIR$/Examen1EGM/Examen1EGM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FigurasGeometricaEGM/FigurasGeometricaEGM.iml" filepath="$PROJECT_DIR$/FigurasGeometricaEGM/FigurasGeometricaEGM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperacionesMatematicasEGM/OperacionesMatematicasEGM.iml" filepath="$PROJECT_DIR$/OperacionesMatematicasEGM/OperacionesMatematicasEGM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraInterfaz/calculadoraInterfaz.iml" filepath="$PROJECT_DIR$/calculadoraInterfaz/calculadoraInterfaz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comprobarEdad/comprobarEdad.iml" filepath="$PROJECT_DIR$/comprobarEdad/comprobarEdad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conversorMonedasHerencia/conversorMonedasHerencia.iml" filepath="$PROJECT_DIR$/conversorMonedasHerencia/conversorMonedasHerencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/numerosAleatorios/numerosAleatorios.iml" filepath="$PROJECT_DIR$/numerosAleatorios/numerosAleatorios.iml" />
+    </modules>
+  </component>
+</project>
