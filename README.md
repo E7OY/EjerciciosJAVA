@@ -13,3 +13,5 @@ Repositorio para los ejercicios construidos con JAVA
 * [Comprobador de edades](https://github.com/E7OY/EjerciciosJAVA/tree/main/comprobarEdad)
 * [Programa que adivina numeros generados aleatoriamente](https://github.com/E7OY/EjerciciosJAVA/tree/main/numerosAleatorios) 
 * [Programa que simula la creación de un personaje de rol](https://github.com/E7OY/EjerciciosJAVA/tree/main/Examen1EGM)
+* [Programa para Leer, Escribir y Copiar ficheros de texto](https://github.com/E7OY/EjerciciosJAVA/tree/main/Ficheros2)
+
