@@ -15,6 +15,7 @@ Repositorio para los ejercicios construidos con JAVA
 * [Programa que simula la creación de un personaje de rol](https://github.com/E7OY/EjerciciosJAVA/tree/main/Examen1EGM)
 * [Programa para Leer, Escribir y Copiar ficheros de texto](https://github.com/E7OY/EjerciciosJAVA/tree/main/Ficheros2)
 * [Programa de gestión de empleados, importar, añadir, modificar, eliminar o exportar empleados](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorEmpleadosEGM)
+* [Programa de gestión de departamentos, importar, añadir, modificar, eliminar o exportar empleados](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorDepartamentosEGM)
 
 
 
