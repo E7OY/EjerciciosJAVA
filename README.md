@@ -16,6 +16,7 @@ Repositorio para los ejercicios construidos con JAVA
 * [Programa para Leer, Escribir y Copiar ficheros de texto](https://github.com/E7OY/EjerciciosJAVA/tree/main/Ficheros2)
 * [Programa de gestión de empleados, importar, añadir, modificar, eliminar o exportar empleados](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorEmpleadosEGM)
 * [Programa de gestión de departamentos, importar, añadir, modificar, eliminar o exportar empleados](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorDepartamentosEGM)
+* [Programa de gestión de usuarios, importar, añadir, modificar, eliminar o exportar usuarios](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorUsuariosEGM)
 
 
 
