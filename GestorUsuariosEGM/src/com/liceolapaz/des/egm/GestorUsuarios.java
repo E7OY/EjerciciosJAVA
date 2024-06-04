@@ -88,7 +88,9 @@ public class GestorUsuarios {
                 String linea = "[";
                 pw.println(linea);
 
-                for (Usuario usuario : usuarios.values()) {
+                Usuario[] usuariosArray = new Usuario[usuarios.values().size()];
+                usuariosArray = usuarios.values().toArray(usuariosArray);
+                for (int i = 0; i < usuariosArray.length; i++) {
                     linea = "  {";
                     pw.println(linea);
                     linea = "    \"id\": " + usuario.getId() + ",";
@@ -101,7 +103,12 @@ public class GestorUsuarios {
                     pw.println(linea);
                     linea = "    \"avatar\": \"" + usuario.getAvatar() + "\"";
                     pw.println(linea);
-                    linea = "  },";
+                    pw.println(linea);
+                    if (i == usuariosArray.length - 1) {
+                        linea = "  }";
+                    } else {
+                        linea = "  },";
+                    }
                     pw.println(linea);
                 }
 
