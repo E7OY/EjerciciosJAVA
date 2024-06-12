@@ -17,6 +17,8 @@ Repositorio para los ejercicios construidos con JAVA
 * [Programa de gestión de empleados, importar, añadir, modificar, eliminar o exportar empleados](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorEmpleadosEGM)
 * [Programa de gestión de departamentos, importar, añadir, modificar, eliminar o exportar empleados](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorDepartamentosEGM)
 * [Programa de gestión de usuarios, importar, añadir, modificar, eliminar o exportar usuarios](https://github.com/E7OY/EjerciciosJAVA/tree/main/GestorUsuariosEGM)
-
+* [Programa de gestión de pilotos, importar, añadir, modificar, eliminar o exportar pilotos](https://github.com/E7OY/EjerciciosJAVA/tree/main/Examen3EGM)
+* [Programa de gestión de pilotos, importar, añadir, modificar, eliminar o exportar pilotos](https://github.com/E7OY/EjerciciosJAVA/tree/main/Examen2EGM)
+* [Programa de gestión de alquiler de distintos vehiculos, alquilar, devolver, listar alquilados, mostrar vehículos sin alquilar](https://github.com/E7OY/EjerciciosJAVA/tree/main/Examen2EGM)
 
 
