@@ -1,0 +1,69 @@
+Fecha: 21/4/2022
+Hora: 10:51:17
+Número de empleados: 6
+===============
+Empleado 1
+===============
+DNI: 23482341H
+Nombre: Jane
+Primer Apellido: Martin
+Segundo Apellido: null
+Fecha de Nacimiento: 1965/11/13
+Salario: 2135.73
+Número de Departamento: 2
+DNI Jefe: null
+===============
+Empleado 2
+===============
+DNI: 31156465G
+Nombre: John
+Primer Apellido: Smith
+Segundo Apellido: null
+Fecha de Nacimiento: 1969/1/14
+Salario: 1545.5
+Número de Departamento: 1
+DNI Jefe: null
+===============
+Empleado 3
+===============
+DNI: 42545642L
+Nombre: Marta
+Primer Apellido: Isla
+Segundo Apellido: Varela
+Fecha de Nacimiento: 1982/6/7
+Salario: 1110.9
+Número de Departamento: 2
+DNI Jefe: 23482341H
+===============
+Empleado 4
+===============
+DNI: 51561414F
+Nombre: Javier
+Primer Apellido: Penedo
+Segundo Apellido: Naya
+Fecha de Nacimiento: 1991/12/21
+Salario: 868.87
+Número de Departamento: 1
+DNI Jefe: 31156465G
+===============
+Empleado 5
+===============
+DNI: 53128739J
+Nombre: Miguel
+Primer Apellido: Portillo
+Segundo Apellido: Oseiro
+Fecha de Nacimiento: 1974/8/25
+Salario: 1676.8
+Número de Departamento: 3
+DNI Jefe: null
+===============
+Empleado 6
+===============
+DNI: 12345678A
+Nombre: Peter
+Primer Apellido: Parker
+Segundo Apellido: null
+Fecha de Nacimiento: 1950/3/14
+Salario: 2108.3
+Número de Departamento: 4
+DNI Jefe: null

@@ -1,0 +1,7 @@
+(DNI, Nombre, Primer_Apellido, Segundo_Apellido, Fecha_Nacimiento, Salario, Departamento, DNI_Jefe)
+('23482341H', 'Jane', 'Martin', NULL, '1965/11/13', '2135.73', 2, NULL)
+('31156465G', 'John', 'Smith', NULL, '1969/1/14', '1545.5', 1, NULL)
+('42545642L', 'Marta', 'Isla', 'Varela', '1982/6/7', '1110.9', 2, '23482341H')
+('51561414F', 'Javier', 'Penedo', 'Naya', '1991/12/21', '868.87', 1, '31156465G')
+('53128739J', 'Miguel', 'Portillo', 'Oseiro', '1974/8/25', '1676.8', 3, NULL)
+('12345678A', 'Peter', 'Parker', NULL, '1950/3/14', '2108.3', 4, NULL)
