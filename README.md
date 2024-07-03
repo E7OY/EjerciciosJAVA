@@ -21,3 +21,6 @@ Repositorio para los ejercicios construidos con JAVA
 * [Programa de gestión de alquiler de distintos vehiculos, alquilar, devolver, listar alquilados, mostrar vehículos sin alquilar](https://github.com/E7OY/EjerciciosJAVA/tree/main/Examen2EGM)
 
 
+## Licencia
+Código y documentación licenciados bajo CC-BY-SA 4.0 (Reconocimiento-CompartirIgual 4.0). Licencia completa: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es
+
